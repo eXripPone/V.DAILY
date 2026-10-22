@@ -1,0 +1,3 @@
+# Demo, HTTP server, Anthropic HTTP client and tests: Python 3.11+ stdlib.
+# Install live voice dependencies only when deploying the real Telegram bot:
+# python -m pip install -r requirements-live.txt

@@ -1,0 +1,4 @@
+# The local demo, HTTP server, core and tests use only Python 3.11+ stdlib.
+# Live voice recognition additionally requires FFmpeg on PATH.
+tzdata>=2025.2
+openai-whisper>=20240930

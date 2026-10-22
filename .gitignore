@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.sqlite3*
+.env
+.venv/
+monitor.csv
+node_modules/
+*.log
+.env.*
+!.env.example
+*.pem
+*.key
+*.zip
+.DS_Store
+.idea/
+.vscode/
